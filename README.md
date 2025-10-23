@@ -8,7 +8,7 @@ The application uses a single PHP file to handle all operations and dynamically 
 
 ## Setup Instructions
 1. Place the PHP file (`new_project.php`) in `htdocs` folder of xampp.  
-2. Create the MySQL database and table:
+2. Create the MySQL database and table and is stored in (`dynamic_project.sql`)
 
 ## Features Overview
 
